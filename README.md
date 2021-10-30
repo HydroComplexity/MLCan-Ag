@@ -1,5 +1,5 @@
 ### Model description
-MLCan+Ag: The Windows version of the model is also fully exposed through the collaborative environment
+MLCan-Ag: The Windows version of the MLCan with agricultural solutions model is also fully exposed through the collaborative environment
 
 ### Software required
 Matlab
@@ -9,9 +9,9 @@ Matlab
 
 1. Open Matlab
 
-2. Go to the MLCan+Ag model in Matlab, simply right-click on main_MLCan.m file, select "Run File"
+2. Go to the MLCan-Ag-main folder in Matlab, simply right-click on main_MLCan.m file, select "Run File"
 
-(Remember to create your working folders inside the MLCanFace3\Data folder)
+(Remember to create your working folders inside the 'MLCan-Ag-main\Data' folder)
 
 [Please read the "About" page from the Help Menu on important details regarding use and citation of the model]
 
